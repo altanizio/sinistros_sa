@@ -1,6 +1,10 @@
-# sinistros_sa
+# Sinistros viários na cidade de Santo André-SP
 
-link: https://altanizio.github.io/sinistros_sa/
+Relatório: https://altanizio.github.io/sinistros_sa/
+
+Mapa óbitos e escolas: https://altanizio.github.io/sinistros_sa/mapa_escolas
+
+Mapa óbitos e renda: https://altanizio.github.io/sinistros_sa/mapa_renda
 
 ## Fonte dos dados
 
